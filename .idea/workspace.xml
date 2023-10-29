@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5fd44c2-9c2a-4854-a1be-8eef67b6b730" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/list/ordenacao/OrdenacaoPessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/ordenacao/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/ordenacao/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/pesquisa/livros/CatalogoLivros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/pesquisa/livros/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/pesquisa/livros/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/convite/ConjuntoConvidados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/convite/Convidado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/convite/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/ordenacao/CadastroProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/ordenacao/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/ordenacao/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/pesquisa/AgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/pesquisa/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/pesquisa/Teste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,40 +49,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.list.ordenacao.Teste">
-    <configuration name="ListaTarefas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.tarefas.ListaTarefas" />
-      <module name="collections-java-api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.tarefas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.tarefas.Main" />
-      <module name="collections-java-api" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.carrinho_de_compras.Teste" />
-      <module name="collections-java-api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.carrinho_de_compras.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.set.ordenacao.Teste">
     <configuration name="list.ordenacao.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="list.ordenacao.Teste" />
       <module name="collections-java-api" />
@@ -106,13 +76,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="set.convite.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.convite.Teste" />
+      <module name="collections-java-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.convite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="set.ordenacao.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.ordenacao.Teste" />
+      <module name="collections-java-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.ordenacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="set.pesquisa.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.pesquisa.Teste" />
+      <module name="collections-java-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.pesquisa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.set.ordenacao.Teste" />
+        <item itemvalue="Application.set.pesquisa.Teste" />
+        <item itemvalue="Application.set.convite.Teste" />
         <item itemvalue="Application.list.ordenacao.Teste" />
         <item itemvalue="Application.list.pesquisa.livros.Teste" />
-        <item itemvalue="Application.Teste" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ListaTarefas" />
       </list>
     </recent_temporary>
   </component>
