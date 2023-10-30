@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5fd44c2-9c2a-4854-a1be-8eef67b6b730" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/set/convite/ConjuntoConvidados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/convite/Convidado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/convite/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/ordenacao/CadastroProdutos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/ordenacao/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/ordenacao/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/pesquisa/AgendaContatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/pesquisa/Contato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/pesquisa/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/ordenacao/AgendaEventos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/ordenacao/Evento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/pesquisa/AgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/pesquisa/EstoqueProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/pesquisa/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +45,13 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.set.ordenacao.Teste">
-    <configuration name="list.ordenacao.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.ordenacao.Teste" />
+  <component name="RunManager" selected="Application.AgendaEventos">
+    <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.pesquisa.AgendaContatos" />
       <module name="collections-java-api" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.ordenacao.*" />
+          <option name="PATTERN" value="map.pesquisa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="list.pesquisa.livros.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.pesquisa.livros.Teste" />
+    <configuration name="AgendaEventos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.ordenacao.AgendaEventos" />
       <module name="collections-java-api" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.pesquisa.livros.*" />
+          <option name="PATTERN" value="map.ordenacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="set.convite.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.convite.Teste" />
+    <configuration name="EstoqueProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.pesquisa.EstoqueProdutos" />
       <module name="collections-java-api" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.convite.*" />
+          <option name="PATTERN" value="map.pesquisa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AgendaEventos" />
+        <item itemvalue="Application.EstoqueProdutos" />
+        <item itemvalue="Application.AgendaContatos" />
         <item itemvalue="Application.set.ordenacao.Teste" />
         <item itemvalue="Application.set.pesquisa.Teste" />
-        <item itemvalue="Application.set.convite.Teste" />
-        <item itemvalue="Application.list.ordenacao.Teste" />
-        <item itemvalue="Application.list.pesquisa.livros.Teste" />
       </list>
     </recent_temporary>
   </component>
